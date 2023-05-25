@@ -6,7 +6,7 @@
 :root {
     --cor-principal: #2C3639;
     --cor-secundaria: #DCD7C9;
-    --cor-terciaria: #A27B5C;
+    --cor-terciaria: #23CFF7;
     --cor-hover: #3F4E4F;
     --cor-hoverBorda:#7DADC3;
     --fonte-primaria:'Montserrat';
@@ -121,7 +121,7 @@ main{
 .rodape{
     
     background-color: var(--cor-terciaria);
-    color: var(--cor-secundaria);
+    color: white;
     padding: 24px;
     text-align: center;
     font-family: var(--fonte-primaria), sans-serif;
