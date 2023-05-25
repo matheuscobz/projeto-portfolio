@@ -36,11 +36,15 @@
 }
 
 body{
+    
     box-sizing: border-box;
     background-color: var(--cor-principal);
     color: var(--cor-secundaria);
 }
 
+main{
+    height: 65vh
+}
 .container{
     padding: 5% 15%; 
     display: flex;
@@ -115,6 +119,7 @@ body{
 
 
 .rodape{
+    
     background-color: var(--cor-terciaria);
     color: var(--cor-secundaria);
     padding: 24px;
